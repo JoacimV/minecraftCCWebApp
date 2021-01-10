@@ -1,0 +1,25 @@
+html,
+body {
+    background: #282c34;
+    margin: 0;
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+    font-family: 'VT323', monospace;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+input {
+    font-family: 'VT323', monospace;
+}
+
+button {
+    font-family: 'VT323', monospace;
+}
+
+.bg {
+    height: 100%;
+    background-image: url("resources/computerBlur.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
