@@ -9,6 +9,7 @@ webapp/package-lock.json
 
 server/target
 server/.idea
+
 # testing
 /coverage
 
@@ -28,4 +29,3 @@ yarn-debug.log*
 yarn-error.log*
 
 entities.iml
-server/ServerSocket.iml
