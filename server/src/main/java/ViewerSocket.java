@@ -4,7 +4,7 @@ import java.util.Observable;
 import java.util.Observer;
 
 public class ViewerSocket implements Observer {
-    private WsConnectContext ctx;
+    private final WsConnectContext ctx;
 
     public ViewerSocket(WsConnectContext ctx) {
         this.ctx = ctx;

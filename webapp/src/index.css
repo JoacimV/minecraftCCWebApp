@@ -16,6 +16,15 @@ button {
     font-family: 'VT323', monospace;
 }
 
+code {
+    background-color: #000000;
+    /*border: 1px solid #36d412;*/
+    /*margin:20;*/
+    display: block;
+    padding: 10px;
+    border-radius:4px;
+}
+
 .bg {
     height: 100%;
     background-image: url("resources/computerBlur.jpg");
